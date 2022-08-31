@@ -3,8 +3,9 @@
 
 ![alt text](https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins%20error%20message.png)
 
-###### add the command in Project's 
+###### Go to Project's Configuration -> Build, then add command in Build field
 ![alt text](https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins_build_msbuild1.png)
 
 ![alt text](https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins_build_msbuild2.png)
 
+###### Then it will successfully build the project!
