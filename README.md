@@ -1,7 +1,10 @@
-###### When creating .NET project and trying to build in Jenkins but failed
-###### error message shows
-  ``` C:\Program Files\dotnet\sdk\6.0.400\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(267,5): error NETSDK1004: Assets file 'C:\Users\chris\.jenkins\workspace\SampleWeb\SampleWeb\obj\project.assets.json' not found. Run a NuGet package restore to generate this file. [C:\Users\chris\.jenkins\workspace\SampleWeb\SampleWeb\SampleWeb.csproj]
-  ```
+###### When creating _.NET_ project and trying to build in _Jenkins_ but failed
+###### error message shows this
+
 ![alt text](https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins%20error%20message.png)
 
-###### use 
+###### add the command in Project's 
+![alt text]([https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins%20error%20message.png](https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins_build_msbuild1.png))
+
+![alt text]([https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins%20error%20message.png](https://github.com/christal5299/Jenkins_MSBuild/blob/main/images/jenkins_build_msbuild2.png))
+
